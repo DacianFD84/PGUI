@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: PlaywrightGUI
+Version: 1.0.0
+Requires-Dist: PyQt6==6.4.0
+Requires-Dist: playwright==1.28.0
